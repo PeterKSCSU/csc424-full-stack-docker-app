@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react' //merge me
+import { useState, useEffect, useRef } from 'react'
 import './App.css'
 
 // ── Fake container data ──────────────────────────────────────────────────────
